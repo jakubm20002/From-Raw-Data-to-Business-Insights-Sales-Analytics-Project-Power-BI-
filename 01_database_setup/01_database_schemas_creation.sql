@@ -1,0 +1,9 @@
+CREATE DATABASE Project;
+GO
+USE Project;
+GO
+CREATE SCHEMA bronze;
+GO
+CREATE SCHEMA silver;
+GO
+CREATE SCHEMA gold
