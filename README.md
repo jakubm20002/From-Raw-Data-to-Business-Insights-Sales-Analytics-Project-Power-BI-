@@ -120,7 +120,7 @@ It's worth analyzing the sales conditions among customers who generate the highe
 - 03_silver_layer
 - 04_gold_layer
 - 05_quality_checks
-- 06_analytical-data-preparation
+- 06_analytical-data_preparation
 - 07_dashboard_overview
   
 **10. Tools**
