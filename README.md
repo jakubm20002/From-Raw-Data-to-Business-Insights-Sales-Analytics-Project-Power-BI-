@@ -93,6 +93,8 @@ Key observations:
   - the distribution of product quantities is relatively even, with no clear dominant product.
 
 **6. Dashboard**
+Download the full interactive dashboard here:
+[01_sales_analytics_report.pbix](07_dashboard_overview/01_sales_analytics_report.pbix)
 
 <img width="600" height="442" alt="Zrzut ekranu 2026-03-30 084915" src="https://github.com/user-attachments/assets/8ee5c485-5929-42a7-9516-6fa9fe2819ee" />
 
